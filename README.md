@@ -1,1 +1,2 @@
 # Python-Data-Analysis-Projects
+This repository features Python-based data analysis projects that utilize libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The projects focus on cleaning, exploring, and visualizing datasets to uncover meaningful insights. Topics include survival analysis, sales forecasting, customer segmentation, and exploratory data analysis (EDA), demonstrating the power of Python in driving data-driven decision-making.
